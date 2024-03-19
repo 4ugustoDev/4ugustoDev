@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-Beginner Software Developer<br>HTML, CSS, JAVASCRIPT.
+Beginner Software Developer<br> PYTHON, SQL, JAVASCRIPT, HTML, CSS.
 
 
 # 💻 Tech Stack:
